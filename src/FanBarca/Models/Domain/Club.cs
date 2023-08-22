@@ -9,5 +9,6 @@ public class Club
     public int Id { get; set; }
     public string? Name { get; set; }
     public string? Image { get; set; }   
-    public ICollection<Player>? PlayersList { get; set; }    
+    public ICollection<Player>? PreviousPlayersList { get; set; }    
+    public ICollection<Player>? NextPlayersList { get; set; }    
 }

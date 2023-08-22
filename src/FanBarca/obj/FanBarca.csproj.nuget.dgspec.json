@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj": {}
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj": {}
   },
   "projects": {
-    "c:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj": {
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj",
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj",
         "projectName": "FanBarca",
-        "projectPath": "c:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\FanBarca.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\obj\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",

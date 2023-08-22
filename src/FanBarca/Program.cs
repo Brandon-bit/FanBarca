@@ -1,7 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+using FanBarca.Models.Domain;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DatabaseContext>(opt => {
+    opt.LogTo(Console.WriteLine, new[]{
+        DbLoggerCategory.Database.Command.Name},
+        LogLevel.Information).EnableSensitiveDataLogging();
+
+        opt.UseSqlite(builder.Configuration.GetConnectionString("SqliteDatabase"));
+});
 
 var app = builder.Build();
 
