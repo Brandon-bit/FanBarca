@@ -1,0 +1,13 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace FanBarca.Models.Domain;
+
+public class Country
+{
+    [Key]
+    [Required]
+    public int Id { get; set; }
+    public string? Name { get; set; }
+    public string? ShortName { get; set; }  
+    public string? Image { get; set; }
+}
