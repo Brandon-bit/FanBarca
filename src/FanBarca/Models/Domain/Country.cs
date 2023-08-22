@@ -10,4 +10,5 @@ public class Country
     public string? Name { get; set; }
     public string? ShortName { get; set; }  
     public string? Image { get; set; }
+    public ICollection<Player>? PlayersList { get; set; }    
 }
