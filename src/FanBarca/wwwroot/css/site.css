@@ -19,4 +19,129 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #181733;
+  font-family: 'Bebas Neue', sans-serif;
 }
+
+/* My code starts here */
+
+/* NAVBAR */
+.navbar{
+  background-color: #181733;
+}
+.navbar-light .navbar-brand {
+  color: #ffc100;
+}
+.navbar-light .navbar-brand:hover{
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #ffc100;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+
+#game{
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 20px;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* Player´s Card */
+.card-player{
+  background: rgb(223,23,63);
+  background: linear-gradient(150deg, rgba(223,23,63,1) 22%, rgba(31,62,141,1) 79%);
+  color: white;
+  text-align: center;
+  padding: 10px;
+
+  -webkit-box-shadow: 10px 10px 0px -3px rgba(253,197,44,1);
+  -moz-box-shadow: 10px 10px 0px -3px rgba(253,197,44,1);
+  box-shadow: 10px 10px 0px -3px rgba(253,197,44,1);
+}
+h3{
+  text-transform: uppercase;
+}
+.info{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.stats{
+  text-align: left;
+  margin: auto;
+}
+.stat p{
+  margin-bottom: 0;
+  letter-spacing: 2px;
+}
+.img-flag{
+  width: 35px;
+}
+.img-player{
+  width: 150px;
+  max-height: 150px;
+}
+#journey{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.img-club{
+  width: 50px;
+  max-height: 50px;
+}
+.arrow{
+  margin: auto;
+}
+
+/* Search bar */
+.search-bar form{
+  display: flex;
+  gap: 5px;
+}
+.btn-guess{
+  color: rgb(223,23,63);
+  border-color: rgb(223,23,63);
+}
+.btn-guess:hover{
+  color: white;
+  background-color: rgb(223,23,63);
+}
+
+/* options */
+.player-options{
+  color: white;
+  margin-top: 20px;
+}
+.opt{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 10px;
+}
+.opt-info p{
+  margin-bottom: 0;
+  text-align: center;
+}
+.img-option{
+  width: 60px;
+}
+.seasons{
+  display: flex;
+  gap: 5px;
+}
+.seasons p{
+  margin-bottom: 0;
+}
+
+

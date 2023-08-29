@@ -1,16 +1,36 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FanBarca.bundle.scp.css",
-      "PackagePath": "staticwebassets\\FanBarca.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\FCB.png",
+      "PackagePath": "staticwebassets\\img\\FCB.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\Masia.png",
+      "PackagePath": "staticwebassets\\img\\Masia.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\arg.png",
+      "PackagePath": "staticwebassets\\img\\arg.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\club-silhouette.png",
+      "PackagePath": "staticwebassets\\img\\club-silhouette.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\lio.png",
+      "PackagePath": "staticwebassets\\img\\lio.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\player-silhouette.png",
+      "PackagePath": "staticwebassets\\img\\player-silhouette.png"
+    },
+    {
+      "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\img\\psg.png",
+      "PackagePath": "staticwebassets\\img\\psg.png"
     },
     {
       "Id": "C:\\Users\\brand\\OneDrive\\Escritorio\\FanBarca\\src\\FanBarca\\wwwroot\\js\\site.js",
